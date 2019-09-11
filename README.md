@@ -13,9 +13,8 @@ This example is for text detection from any document or image.
 <b>Usage :</b>
 
 Import below code to your build.gradle(Module: app) file
-
-    ```gradle
-    implementation 'com.google.android.gms:play-services-vision:18.0.0'
-    ```
+```gradle
+implementation 'com.google.android.gms:play-services-vision:18.0.0'
+```
     
 
