@@ -21,4 +21,4 @@ implementation 'com.google.android.gms:play-services-vision:18.0.0'
 <b>Output :-</b>
 
 
-![alt text]()
+![alt text](https://github.com/1986webdeveloper/VisionTextDetectionAndroidJava/blob/master/textDetectAndroid.gif)
