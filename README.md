@@ -18,3 +18,7 @@ implementation 'com.google.android.gms:play-services-vision:18.0.0'
 ```
     
 
+<b>Output :-</b>
+
+
+![alt text]()
